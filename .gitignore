@@ -1,0 +1,7 @@
+.env
+n8n-data/
+postgres-data/
+redis-data/
+ngrok-data/
+.DS_Store
+ngrok.yml
